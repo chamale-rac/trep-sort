@@ -1,0 +1,20 @@
+{
+    "manifest_version": 2,
+    "name": "trep-sort",
+    "description": "A extension for sorting the trep.gt tables.",
+    "version": "0.0.1",
+    "author": "Samuel Chamalé",
+    "browser_action": {
+        "default_title": "trep-sort"
+    },
+    "permissions": [
+        "tabs",
+        "webNavigation",
+        "https://trep.gt/"
+    ],
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    }
+}
