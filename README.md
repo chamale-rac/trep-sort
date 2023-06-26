@@ -9,5 +9,5 @@ A extension for sorting the trep.gt tables.
 
 ### How to use it?
 1. Download the repo
-2. Upload the dir as 'load unpacked extension'
+2. Upload the dir as 'load unpacked extension' in your browser
 3. Go to [https://trep.gt](https://trep.gt) and use it
